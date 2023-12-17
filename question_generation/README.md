@@ -1,4 +1,4 @@
-The code for question generation has been taken from https://github.com/patil-suraj/question_generation, where the model follows the end-to-end question generation to generate questions just from the context.
+The code for question generation follows the end-to-end question generation to generate questions just from the context.
 
 ## Data Preparation
 The initial dataset was created in a SQuAD-like dataset, and has to be converted to be fed as input to the T5 transformer.
