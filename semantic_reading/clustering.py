@@ -29,7 +29,7 @@ from sklearn.neighbors import KNeighborsClassifier
 import re
 
 #TODO remember to change to the correct client
-# client = pymongo.MongoClient("mongodb+srv://df-1203:7oct00@event-extraction.m5zil.mongodb.net/test?retryWrites=true&w=majority")  # 27017/semantic_reading
+# client = pymongo.MongoClient("")  # 27017/semantic_reading
 # # Apparently if you remove the commented section then the authentication works
 # db =  client["test"]
 # db_c = db["test_c"]
